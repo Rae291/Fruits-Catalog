@@ -1,5 +1,5 @@
 # Fruits-Catalog
-A SwiftUI iPhone application that displays various fruits with details and animation. It uses local JSON file for data. Works in dark as well as light mode. Follows MVC Design pattern.
+A SwiftUI iPhone application that displays various fruits with details and animation. Works in dark as well as light mode. Follows MVC Design pattern.
 
 
 Light Mode:
